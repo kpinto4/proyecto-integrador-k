@@ -5,7 +5,8 @@ public class reposi {
 		int a=0;
 		float b= 3.0f;
 		
-		b = a*2;
+		b = a*3;
+		
 		System.out.println("hola mundo");
 		
 	}
